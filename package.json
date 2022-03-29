@@ -1,0 +1,12 @@
+{
+  "name": "api_jira01",
+  "version": "1.0.0",
+  "description": "treinamento de consumo de api",
+  "main": "index.js",
+  "repository": "https://github.com/Hall-devil/aulas-jardel.git",
+  "author": "Hall",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
